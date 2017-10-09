@@ -29,13 +29,13 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1507559342858" expanded="true" signature="32002:32021" ph="..." />
-                <marker date="1507559342858" expanded="true" signature="32002:32039" ph="..." />
-                <marker date="1507559342858" expanded="true" signature="32002:32052" ph="..." />
-                <marker date="1507559342858" expanded="true" signature="32002:32274" ph="..." />
-                <marker date="1507559342858" expanded="true" signature="32103:32259" ph="..." />
-                <marker date="1507559342858" expanded="true" signature="32165:32246" ph="..." />
-                <marker date="1507559342858" expanded="true" signature="32181:32228" ph="..." />
+                <marker date="1507561046851" expanded="true" signature="32337:32356" ph="..." />
+                <marker date="1507561046851" expanded="true" signature="32337:32374" ph="..." />
+                <marker date="1507561046851" expanded="true" signature="32337:32387" ph="..." />
+                <marker date="1507561046851" expanded="true" signature="32337:32609" ph="..." />
+                <marker date="1507561046851" expanded="true" signature="32438:32594" ph="..." />
+                <marker date="1507561046851" expanded="true" signature="32500:32581" ph="..." />
+                <marker date="1507561046851" expanded="true" signature="32516:32563" ph="..." />
               </folding>
             </state>
           </provider>
@@ -176,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507553124720</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="0000">
+      <created>1507560851015</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1507560851015</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -225,7 +232,8 @@
     <MESSAGE value="3333" />
     <MESSAGE value="222222" />
     <MESSAGE value="222222132" />
-    <option name="LAST_COMMIT_MESSAGE" value="222222132" />
+    <MESSAGE value="0000" />
+    <option name="LAST_COMMIT_MESSAGE" value="0000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -287,13 +295,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1507559342858" expanded="true" signature="32002:32021" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32039" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32052" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32274" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32103:32259" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32165:32246" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32181:32228" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32356" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32374" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32387" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32609" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32438:32594" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32500:32581" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32516:32563" ph="..." />
           </folding>
         </state>
       </provider>
@@ -374,13 +382,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1507559342858" expanded="true" signature="32002:32021" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32039" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32052" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32274" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32103:32259" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32165:32246" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32181:32228" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32356" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32374" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32387" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32609" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32438:32594" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32500:32581" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32516:32563" ph="..." />
           </folding>
         </state>
       </provider>
@@ -418,131 +426,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1507559342858" expanded="true" signature="32002:32021" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32039" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32052" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32274" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32103:32259" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32165:32246" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32181:32228" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/shelf/unnamed.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/shelf/unnamed.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1507559342858" expanded="true" signature="32002:32021" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32039" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32052" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32274" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32103:32259" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32165:32246" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32181:32228" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1507559342858" expanded="true" signature="32002:32021" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32039" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32052" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32274" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32103:32259" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32165:32246" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32181:32228" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32356" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32374" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32387" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32609" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32438:32594" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32500:32581" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32516:32563" ph="..." />
           </folding>
         </state>
       </provider>
@@ -610,13 +500,131 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1507559342858" expanded="true" signature="32002:32021" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32039" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32052" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32002:32274" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32103:32259" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32165:32246" ph="..." />
-            <marker date="1507559342858" expanded="true" signature="32181:32228" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32356" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32374" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32387" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32609" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32438:32594" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32500:32581" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32516:32563" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507561046851" expanded="true" signature="32337:32356" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32374" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32387" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32609" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32438:32594" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32500:32581" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32516:32563" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/shelf/unnamed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/shelf/unnamed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507561046851" expanded="true" signature="32337:32356" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32374" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32387" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32337:32609" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32438:32594" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32500:32581" ph="..." />
+            <marker date="1507561046851" expanded="true" signature="32516:32563" ph="..." />
           </folding>
         </state>
       </provider>
