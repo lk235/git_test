@@ -28,13 +28,13 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1507552389395" expanded="true" signature="17770:17789" ph="..." />
-                <marker date="1507552389395" expanded="true" signature="17770:17807" ph="..." />
-                <marker date="1507552389395" expanded="true" signature="17770:17820" ph="..." />
-                <marker date="1507552389395" expanded="true" signature="17770:18042" ph="..." />
-                <marker date="1507552389395" expanded="true" signature="17871:18027" ph="..." />
-                <marker date="1507552389395" expanded="true" signature="17933:18014" ph="..." />
-                <marker date="1507552389395" expanded="true" signature="17949:17996" ph="..." />
+                <marker date="1507552618164" expanded="true" signature="17941:17960" ph="..." />
+                <marker date="1507552618164" expanded="true" signature="17941:17978" ph="..." />
+                <marker date="1507552618164" expanded="true" signature="17941:17991" ph="..." />
+                <marker date="1507552618164" expanded="true" signature="17941:18213" ph="..." />
+                <marker date="1507552618164" expanded="true" signature="18042:18198" ph="..." />
+                <marker date="1507552618164" expanded="true" signature="18104:18185" ph="..." />
+                <marker date="1507552618164" expanded="true" signature="18120:18167" ph="..." />
               </folding>
             </state>
           </provider>
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1507552384535</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3333">
+      <created>1507552416958</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1507552416958</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -200,7 +207,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="000" />
     <MESSAGE value="333" />
-    <option name="LAST_COMMIT_MESSAGE" value="333" />
+    <MESSAGE value="3333" />
+    <option name="LAST_COMMIT_MESSAGE" value="3333" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -262,13 +270,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1507552389395" expanded="true" signature="17770:17789" ph="..." />
-            <marker date="1507552389395" expanded="true" signature="17770:17807" ph="..." />
-            <marker date="1507552389395" expanded="true" signature="17770:17820" ph="..." />
-            <marker date="1507552389395" expanded="true" signature="17770:18042" ph="..." />
-            <marker date="1507552389395" expanded="true" signature="17871:18027" ph="..." />
-            <marker date="1507552389395" expanded="true" signature="17933:18014" ph="..." />
-            <marker date="1507552389395" expanded="true" signature="17949:17996" ph="..." />
+            <marker date="1507552618164" expanded="true" signature="17941:17960" ph="..." />
+            <marker date="1507552618164" expanded="true" signature="17941:17978" ph="..." />
+            <marker date="1507552618164" expanded="true" signature="17941:17991" ph="..." />
+            <marker date="1507552618164" expanded="true" signature="17941:18213" ph="..." />
+            <marker date="1507552618164" expanded="true" signature="18042:18198" ph="..." />
+            <marker date="1507552618164" expanded="true" signature="18104:18185" ph="..." />
+            <marker date="1507552618164" expanded="true" signature="18120:18167" ph="..." />
           </folding>
         </state>
       </provider>
