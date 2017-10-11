@@ -32,19 +32,19 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1507734072691" expanded="true" signature="40054:40071" ph="..." />
-                <marker date="1507734072691" expanded="true" signature="40054:40089" ph="..." />
-                <marker date="1507734072691" expanded="true" signature="40054:40102" ph="..." />
-                <marker date="1507734072691" expanded="true" signature="40054:40738" ph="..." />
-                <marker date="1507734072691" expanded="true" signature="40153:40309" ph="..." />
-                <marker date="1507734072691" expanded="true" signature="40215:40296" ph="..." />
-                <marker date="1507734072691" expanded="true" signature="40231:40278" ph="..." />
-                <marker date="1507734072691" expanded="true" signature="40360:40516" ph="..." />
-                <marker date="1507734072691" expanded="true" signature="40422:40503" ph="..." />
-                <marker date="1507734072691" expanded="true" signature="40438:40485" ph="..." />
-                <marker date="1507734072691" expanded="true" signature="40567:40723" ph="..." />
-                <marker date="1507734072691" expanded="true" signature="40629:40710" ph="..." />
-                <marker date="1507734072691" expanded="true" signature="40645:40692" ph="..." />
+                <marker date="1507734188737" expanded="true" signature="39818:39835" ph="..." />
+                <marker date="1507734188737" expanded="true" signature="39818:39853" ph="..." />
+                <marker date="1507734188737" expanded="true" signature="39818:39866" ph="..." />
+                <marker date="1507734188737" expanded="true" signature="39818:40502" ph="..." />
+                <marker date="1507734188737" expanded="true" signature="39917:40073" ph="..." />
+                <marker date="1507734188737" expanded="true" signature="39979:40060" ph="..." />
+                <marker date="1507734188737" expanded="true" signature="39995:40042" ph="..." />
+                <marker date="1507734188737" expanded="true" signature="40124:40280" ph="..." />
+                <marker date="1507734188737" expanded="true" signature="40186:40267" ph="..." />
+                <marker date="1507734188737" expanded="true" signature="40202:40249" ph="..." />
+                <marker date="1507734188737" expanded="true" signature="40331:40487" ph="..." />
+                <marker date="1507734188737" expanded="true" signature="40393:40474" ph="..." />
+                <marker date="1507734188737" expanded="true" signature="40409:40456" ph="..." />
               </folding>
             </state>
           </provider>
@@ -223,10 +223,9 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26923078" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32851985" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -306,19 +305,19 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1507734072691" expanded="true" signature="40054:40071" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40089" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40102" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40738" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40153:40309" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40215:40296" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40231:40278" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40360:40516" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40422:40503" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40438:40485" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40567:40723" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40629:40710" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40645:40692" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39835" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39853" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39866" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:40502" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39917:40073" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39979:40060" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39995:40042" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40124:40280" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40186:40267" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40202:40249" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40331:40487" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40393:40474" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40409:40456" ph="..." />
           </folding>
         </state>
       </provider>
@@ -378,19 +377,19 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1507734072691" expanded="true" signature="40054:40071" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40089" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40102" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40738" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40153:40309" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40215:40296" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40231:40278" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40360:40516" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40422:40503" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40438:40485" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40567:40723" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40629:40710" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40645:40692" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39835" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39853" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39866" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:40502" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39917:40073" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39979:40060" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39995:40042" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40124:40280" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40186:40267" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40202:40249" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40331:40487" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40393:40474" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40409:40456" ph="..." />
           </folding>
         </state>
       </provider>
@@ -471,19 +470,19 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1507734072691" expanded="true" signature="40054:40071" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40089" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40102" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40738" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40153:40309" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40215:40296" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40231:40278" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40360:40516" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40422:40503" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40438:40485" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40567:40723" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40629:40710" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40645:40692" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39835" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39853" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39866" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:40502" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39917:40073" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39979:40060" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39995:40042" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40124:40280" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40186:40267" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40202:40249" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40331:40487" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40393:40474" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40409:40456" ph="..." />
           </folding>
         </state>
       </provider>
@@ -521,149 +520,19 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1507734072691" expanded="true" signature="40054:40071" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40089" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40102" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40738" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40153:40309" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40215:40296" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40231:40278" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40360:40516" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40422:40503" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40438:40485" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40567:40723" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40629:40710" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40645:40692" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/shelf/unnamed.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/shelf/unnamed.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1507734072691" expanded="true" signature="40054:40071" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40089" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40102" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40738" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40153:40309" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40215:40296" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40231:40278" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40360:40516" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40422:40503" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40438:40485" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40567:40723" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40629:40710" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40645:40692" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1507734072691" expanded="true" signature="40054:40071" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40089" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40102" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40738" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40153:40309" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40215:40296" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40231:40278" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40360:40516" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40422:40503" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40438:40485" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40567:40723" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40629:40710" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40645:40692" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39835" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39853" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39866" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:40502" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39917:40073" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39979:40060" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39995:40042" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40124:40280" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40186:40267" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40202:40249" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40331:40487" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40393:40474" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40409:40456" ph="..." />
           </folding>
         </state>
       </provider>
@@ -731,19 +600,149 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1507734072691" expanded="true" signature="40054:40071" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40089" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40102" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40054:40738" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40153:40309" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40215:40296" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40231:40278" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40360:40516" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40422:40503" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40438:40485" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40567:40723" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40629:40710" ph="..." />
-            <marker date="1507734072691" expanded="true" signature="40645:40692" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39835" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39853" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39866" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:40502" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39917:40073" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39979:40060" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39995:40042" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40124:40280" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40186:40267" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40202:40249" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40331:40487" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40393:40474" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40409:40456" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507734188737" expanded="true" signature="39818:39835" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39853" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39866" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:40502" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39917:40073" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39979:40060" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39995:40042" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40124:40280" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40186:40267" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40202:40249" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40331:40487" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40393:40474" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40409:40456" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/shelf/unnamed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/shelf/unnamed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1507734188737" expanded="true" signature="39818:39835" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39853" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:39866" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39818:40502" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39917:40073" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39979:40060" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="39995:40042" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40124:40280" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40186:40267" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40202:40249" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40331:40487" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40393:40474" ph="..." />
+            <marker date="1507734188737" expanded="true" signature="40409:40456" ph="..." />
           </folding>
         </state>
       </provider>
